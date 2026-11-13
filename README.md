@@ -1,5 +1,8 @@
 # Codify
 
+<img width="1254" height="1254" alt="Пиксельный помощник у терминала" src="https://github.com/user-attachments/assets/a6531bcb-c0ba-48c2-bf5e-ac1338542486" />
+
+
 [![Tauri](https://img.shields.io/badge/Tauri-2.0-blue.svg?style=flat-square&logo=tauri)](https://tauri.app/)
 [![Rust](https://img.shields.io/badge/Rust-1.75+-orange.svg?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![React](https://img.shields.io/badge/React-18-blue.svg?style=flat-square&logo=react)](https://reactjs.org/)
